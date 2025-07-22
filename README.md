@@ -1,4 +1,4 @@
-## <img src="assets/dog.gif" style="width: 70%;" alt="dog gif">Привет! 👋 Меня зовут Алина <img src="assets/animated-dog.gif" style="width: 40%;" alt="dog gif">
+## <img src="assets/funny dog.gif" style="width: 70%; vertical-align: middle;" alt="dog gif">Привет! 👋 Меня зовут Алина
 
 ### 🙋‍♀️ О себе
 Я — **Data Scientist | Аналитик Данных** с инженерным образованием и 8-летним опытом в нефтегазовой отрасли.  
